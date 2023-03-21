@@ -3,6 +3,10 @@
 
 ![path](Path.png)
 
+#### Then I ran hello world
+
+![helloworld](helloworld.png)
+
 #### I then ran the half adder example using the following code:
 
 ![halfaddercode](halfaddercode.png)

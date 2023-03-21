@@ -17,7 +17,7 @@
 
 #### For the second example I ran D Flip Flop with the following code:
 
-![flipflopcode](flipflopcode.png)
+![flipflopcode](flipflipcode.png)
 
 #### which gave the following:
 

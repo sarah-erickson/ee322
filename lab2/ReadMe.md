@@ -22,5 +22,11 @@
 
 
 ## below shows my terminal when running the above commands
+![terminal1](terminal1.png)
+![terminal2](terminal2.png)
+![terminal3](terminal3.png)
+![terminal4](terminal4.png)
+![nanofile](nanofile.png)
+![uname](uname.png)
 
-
+### *note the commands ifconfig, ping localhost, and netstat are not pictured as the results were too long

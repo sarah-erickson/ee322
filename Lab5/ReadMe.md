@@ -12,6 +12,6 @@
 #### pubcpu:
 ![pubcpu](pubcpu.png)
 
-####subcpu:
+#### subcpu:
 ![subcpu](subcpu.png)
 
